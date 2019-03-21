@@ -1,0 +1,124 @@
+.toppage {
+        
+        display: flex;
+        padding: 14px 16px;
+        text-decoration: none;
+        text-shadow: 10%;
+        font-size: 17px;
+        background-color: green; 
+        
+         
+}
+.toppage a{
+  color:white;
+  margin: 10px;
+}
+
+.nextview{
+  
+}
+.left{
+  left: 1%;
+  font-family: Trebuchet MS;
+ 
+}
+.right{
+  right: 1%;
+  font-family: Trebuchet MS;
+   
+  
+}
+.spacer{
+  width:450px;
+   
+}
+.safaricom_logo{
+  display: flex;
+  float:inherit;
+  
+}
+.safaricom_logo a{
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+  margin: 10px;
+  color: black;
+}
+
+.otherservices li{
+  list-style: none;
+  margin: 5px;
+  display: inline;
+  padding-top: 5px;
+  float:right;
+}
+
+.otherfocus{
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  float:left;
+  max-width: 2000px;
+  
+}
+
+#corporate{
+  border: 3px  white;
+  background-color: green;
+  color:white;
+  font-family: Monospace;
+}
+p{
+  text-align: justify;
+  width: 200px;
+}
+
+#sme{
+  border: 3px  white;
+  background-color: green;
+  color:white;
+  font-family: Monospace;
+  
+}
+p{
+  text-align: justify;
+  width: 250px;
+}
+
+#mediacentre{
+  border: 3px  white;
+  background-color: green;
+  color:white;
+  font-family: Monospace;
+  
+}
+p{
+  text-align: justify;
+  width: 250px;
+  
+}
+  #nawe{
+    text-align:center;
+    clear: both;
+    font-size: 18px;
+    flex: 50px;
+    padding-top:10px;
+    position: relative;
+    text-shadow: 2px 2px #859;
+    
+    }
+
+.footer{
+
+  font-size:15px;
+  color:green;
+  text-align : center;
+  background-color: black;
+  font:Monospace;
+  display: inline-block;
+  margin:0px;
+  
+}
+.footer p {
+  float: left;
+}
